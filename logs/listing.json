@@ -1,6 +1,6 @@
 {
   "confessions/tau3bench/qwen3.8-flash-next.eval": {
-    "eval_id": "9Y9gbW3gXCQEiUzqtUGYFP",
+    "eval_id": "GLn6xYxaZjNbWyFrcXzXLX",
     "run_id": "goodfire-rh-confessions",
     "task": "tau3bench-confessions",
     "task_id": "tau3bench-confessions",
@@ -18,7 +18,7 @@
     }
   },
   "confessions/tau3bench/gpt-oss-120b.eval": {
-    "eval_id": "JJVG4en4ck9nMxvKzBk2KQ",
+    "eval_id": "NYuihUseG3uPjRgSrvJQa7",
     "run_id": "goodfire-rh-confessions",
     "task": "tau3bench-confessions",
     "task_id": "tau3bench-confessions",
@@ -36,7 +36,7 @@
     }
   },
   "confessions/swebench-verified/qwen3.8-flash-next.eval": {
-    "eval_id": "iYBNg28NiQd4ntSv5PKkFV",
+    "eval_id": "3qbun8YmHHLMJ3fvV2RSxy",
     "run_id": "goodfire-rh-confessions",
     "task": "swebench-verified-confessions",
     "task_id": "swebench-verified-confessions",
@@ -54,7 +54,7 @@
     }
   },
   "confessions/swebench-verified/gpt-oss-120b.eval": {
-    "eval_id": "6jZQtkgGpWZGJ3DzzydzzN",
+    "eval_id": "PKmJStyZt8px3GHJbHejrW",
     "run_id": "goodfire-rh-confessions",
     "task": "swebench-verified-confessions",
     "task_id": "swebench-verified-confessions",
@@ -72,7 +72,7 @@
     }
   },
   "confessions/shoppingbench/qwen3.8-flash-next.eval": {
-    "eval_id": "5mVKGicgK6sQGdK7rAUagd",
+    "eval_id": "ZFVYFRsR4N5xZwTjxikJek",
     "run_id": "goodfire-rh-confessions",
     "task": "shoppingbench-confessions",
     "task_id": "shoppingbench-confessions",
@@ -90,7 +90,7 @@
     }
   },
   "confessions/shoppingbench/gpt-oss-120b.eval": {
-    "eval_id": "QEJA22P5NwqbX3qfwEwfRP",
+    "eval_id": "ZAwKiTp5GV6YyL4svHftHL",
     "run_id": "goodfire-rh-confessions",
     "task": "shoppingbench-confessions",
     "task_id": "shoppingbench-confessions",
@@ -108,7 +108,7 @@
     }
   },
   "confessions/impossiblebench/qwen3.8-flash-next.eval": {
-    "eval_id": "HotwQni6jM5VqCCYnhBA3A",
+    "eval_id": "5wo7xYn2LEeMvRGkkyDRcp",
     "run_id": "goodfire-rh-confessions",
     "task": "impossiblebench-confessions",
     "task_id": "impossiblebench-confessions",
@@ -126,7 +126,7 @@
     }
   },
   "confessions/impossiblebench/gpt-oss-120b.eval": {
-    "eval_id": "MZVRMW2YWzeEBXMPQEMoX4",
+    "eval_id": "83jcpgNdFNjGeTYeR9DPvT",
     "run_id": "goodfire-rh-confessions",
     "task": "impossiblebench-confessions",
     "task_id": "impossiblebench-confessions",
@@ -144,7 +144,7 @@
     }
   },
   "confessions/deepswe/qwen3.8-flash-next.eval": {
-    "eval_id": "3Uw7vm4CDMAtrGPQhE5Z6b",
+    "eval_id": "9fsDtmf5ijs6cgBuYRthsr",
     "run_id": "goodfire-rh-confessions",
     "task": "deepswe-confessions",
     "task_id": "deepswe-confessions",
@@ -162,7 +162,7 @@
     }
   },
   "confessions/deepswe/gpt-oss-120b.eval": {
-    "eval_id": "h5xDbZRhTHZsXHAjNHNkRK",
+    "eval_id": "PYNXUNZpEF7eErvjCHj3uw",
     "run_id": "goodfire-rh-confessions",
     "task": "deepswe-confessions",
     "task_id": "deepswe-confessions",
@@ -179,44 +179,8 @@
       "params": {}
     }
   },
-  "replay/shoppingbench/gpt-oss-120b.eval": {
-    "eval_id": "nQJPyfXPRLzfCD9YycnAUy",
-    "run_id": "goodfire-rh-replay",
-    "task": "shoppingbench-replay",
-    "task_id": "shoppingbench-replay",
-    "task_version": 1,
-    "version": 2,
-    "status": "success",
-    "invalidated": false,
-    "model": "openrouter/openai/gpt-oss-120b",
-    "started_at": "2026-10-29T15:52:49.997810+00:00",
-    "completed_at": "2026-10-29T16:55:26.161609+00:00",
-    "primary_metric": {
-      "name": "hack_rate",
-      "value": 0.059,
-      "params": {}
-    }
-  },
-  "frontier/tau3bench/kimi-k3.eval": {
-    "eval_id": "P8ubs47Aakk2ZsSaeHNj88",
-    "run_id": "goodfire-rh-frontier",
-    "task": "tau3bench-frontier",
-    "task_id": "tau3bench-frontier",
-    "task_version": 1,
-    "version": 2,
-    "status": "success",
-    "invalidated": false,
-    "model": "release/kimi-k3",
-    "started_at": "2026-10-29T16:32:26.243061+00:00",
-    "completed_at": "2026-10-29T16:32:26.404065+00:00",
-    "primary_metric": {
-      "name": "hack_rate",
-      "value": 0.0,
-      "params": {}
-    }
-  },
   "frontier/tau3bench/glm-5.2.eval": {
-    "eval_id": "QiHAEk4SDVRzrYxqLn4XN5",
+    "eval_id": "jYhXxmovdaD832djMcAJ9P",
     "run_id": "goodfire-rh-frontier",
     "task": "tau3bench-frontier",
     "task_id": "tau3bench-frontier",
@@ -233,8 +197,26 @@
       "params": {}
     }
   },
+  "frontier/tau3bench/kimi-k3.eval": {
+    "eval_id": "Q9cQoErwupnKSU2cApeoYg",
+    "run_id": "goodfire-rh-frontier",
+    "task": "tau3bench-frontier",
+    "task_id": "tau3bench-frontier",
+    "task_version": 1,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "release/kimi-k3",
+    "started_at": "2026-10-29T16:32:26.243061+00:00",
+    "completed_at": "2026-10-29T16:32:26.404065+00:00",
+    "primary_metric": {
+      "name": "hack_rate",
+      "value": 0.0,
+      "params": {}
+    }
+  },
   "frontier/swebench-verified/qwen3.8-max.eval": {
-    "eval_id": "jFUuDdEQNJYUzDrWLynnQv",
+    "eval_id": "VMxfaRVpQXnRwrf8k9hJFN",
     "run_id": "goodfire-rh-frontier",
     "task": "swebench-verified-frontier",
     "task_id": "swebench-verified-frontier",
@@ -252,7 +234,7 @@
     }
   },
   "frontier/swebench-verified/kimi-k3.eval": {
-    "eval_id": "XucoGYGTjhDio9HPQAeout",
+    "eval_id": "BjUUq99ps8mhYH7ZrPZ3Wv",
     "run_id": "goodfire-rh-frontier",
     "task": "swebench-verified-frontier",
     "task_id": "swebench-verified-frontier",
@@ -269,26 +251,8 @@
       "params": {}
     }
   },
-  "frontier/swebench-verified/glm-5.2.eval": {
-    "eval_id": "HxaLuiQH2MwGrLLt5VVqFG",
-    "run_id": "goodfire-rh-frontier",
-    "task": "swebench-verified-frontier",
-    "task_id": "swebench-verified-frontier",
-    "task_version": 1,
-    "version": 2,
-    "status": "success",
-    "invalidated": false,
-    "model": "release/glm-5.2",
-    "started_at": "2026-10-29T16:32:26.154058+00:00",
-    "completed_at": "2026-10-29T16:32:26.341063+00:00",
-    "primary_metric": {
-      "name": "hack_rate",
-      "value": 0.857,
-      "params": {}
-    }
-  },
   "frontier/shoppingbench/kimi-k3.eval": {
-    "eval_id": "geVBiDdotmNkycLdXRTbL3",
+    "eval_id": "cqSA5BCgW4YyZyMSvCr9oa",
     "run_id": "goodfire-rh-frontier",
     "task": "shoppingbench-frontier",
     "task_id": "shoppingbench-frontier",
@@ -305,26 +269,26 @@
       "params": {}
     }
   },
-  "frontier/shoppingbench/glm-5.2.eval": {
-    "eval_id": "fTMCFpTkRvbmLAWPdrtWB6",
+  "frontier/swebench-verified/glm-5.2.eval": {
+    "eval_id": "WAymt2uqFLXU34TpMwrG8y",
     "run_id": "goodfire-rh-frontier",
-    "task": "shoppingbench-frontier",
-    "task_id": "shoppingbench-frontier",
+    "task": "swebench-verified-frontier",
+    "task_id": "swebench-verified-frontier",
     "task_version": 1,
     "version": 2,
     "status": "success",
     "invalidated": false,
     "model": "release/glm-5.2",
-    "started_at": "2026-10-29T16:32:26.139058+00:00",
-    "completed_at": "2026-10-29T16:32:26.332063+00:00",
+    "started_at": "2026-10-29T16:32:26.154058+00:00",
+    "completed_at": "2026-10-29T16:32:26.341063+00:00",
     "primary_metric": {
       "name": "hack_rate",
-      "value": 0.6,
+      "value": 0.857,
       "params": {}
     }
   },
   "frontier/impossiblebench/qwen3.8-max.eval": {
-    "eval_id": "78DFDUc7qs9DRdUbrHt7Wp",
+    "eval_id": "i6kEb4SJZbZVrHscPG3wPQ",
     "run_id": "goodfire-rh-frontier",
     "task": "impossiblebench-frontier",
     "task_id": "impossiblebench-frontier",
@@ -341,26 +305,26 @@
       "params": {}
     }
   },
-  "frontier/impossiblebench/kimi-k3.eval": {
-    "eval_id": "DC8beRxY6VxEh9Z3MqJeMz",
+  "frontier/shoppingbench/glm-5.2.eval": {
+    "eval_id": "D859sgJJCNixU38fmQPVDX",
     "run_id": "goodfire-rh-frontier",
-    "task": "impossiblebench-frontier",
-    "task_id": "impossiblebench-frontier",
+    "task": "shoppingbench-frontier",
+    "task_id": "shoppingbench-frontier",
     "task_version": 1,
     "version": 2,
     "status": "success",
     "invalidated": false,
-    "model": "release/kimi-k3",
-    "started_at": "2026-10-29T16:32:26.328063+00:00",
-    "completed_at": "2026-10-29T16:32:26.328063+00:00",
+    "model": "release/glm-5.2",
+    "started_at": "2026-10-29T16:32:26.139058+00:00",
+    "completed_at": "2026-10-29T16:32:26.332063+00:00",
     "primary_metric": {
       "name": "hack_rate",
-      "value": 0.0,
+      "value": 0.6,
       "params": {}
     }
   },
   "frontier/impossiblebench/glm-5.2.eval": {
-    "eval_id": "g7ZnFLXYvwJzUYPddbGwFs",
+    "eval_id": "ZjL5z8jr2v8bZtJVwkuHn5",
     "run_id": "goodfire-rh-frontier",
     "task": "impossiblebench-frontier",
     "task_id": "impossiblebench-frontier",
@@ -377,8 +341,26 @@
       "params": {}
     }
   },
+  "frontier/impossiblebench/kimi-k3.eval": {
+    "eval_id": "9Sdwr9caBrbiLLaq9uUM2p",
+    "run_id": "goodfire-rh-frontier",
+    "task": "impossiblebench-frontier",
+    "task_id": "impossiblebench-frontier",
+    "task_version": 1,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "release/kimi-k3",
+    "started_at": "2026-10-29T16:32:26.328063+00:00",
+    "completed_at": "2026-10-29T16:32:26.328063+00:00",
+    "primary_metric": {
+      "name": "hack_rate",
+      "value": 0.0,
+      "params": {}
+    }
+  },
   "frontier/deepswe/qwen3.8-max.eval": {
-    "eval_id": "kRToVehX5pgoqdXxjTHgf7",
+    "eval_id": "7ediTV7oWxuUhBqtGwqyy9",
     "run_id": "goodfire-rh-frontier",
     "task": "deepswe-frontier",
     "task_id": "deepswe-frontier",
@@ -396,7 +378,7 @@
     }
   },
   "frontier/deepswe/kimi-k3.eval": {
-    "eval_id": "AW6zg78xc9XAgvTHeLQbRN",
+    "eval_id": "b6tPSx2nrKfSE3Z3BkFVu4",
     "run_id": "goodfire-rh-frontier",
     "task": "deepswe-frontier",
     "task_id": "deepswe-frontier",
@@ -414,7 +396,7 @@
     }
   },
   "frontier/deepswe/glm-5.2.eval": {
-    "eval_id": "kZQmyJUmcvtwzH6E4Qcg94",
+    "eval_id": "avbRfyRnSEx2yQxoAgKm22",
     "run_id": "goodfire-rh-frontier",
     "task": "deepswe-frontier",
     "task_id": "deepswe-frontier",
@@ -432,7 +414,7 @@
     }
   },
   "replay/tau3bench/qwen3.8-flash-next.eval": {
-    "eval_id": "JmPiw2JtJW7b9wZd93Jdmc",
+    "eval_id": "GJBg2F5Z5JFQL8mo9y7EQ7",
     "run_id": "goodfire-rh-replay",
     "task": "tau3bench-replay",
     "task_id": "tau3bench-replay",
@@ -450,7 +432,7 @@
     }
   },
   "replay/tau3bench/gpt-oss-120b.eval": {
-    "eval_id": "GPgnTMEoNDdaeMzcS9LL9X",
+    "eval_id": "F3yt3n5u4zKJzwA7bRNZ5H",
     "run_id": "goodfire-rh-replay",
     "task": "tau3bench-replay",
     "task_id": "tau3bench-replay",
@@ -468,7 +450,7 @@
     }
   },
   "replay/swebench-verified/qwen3.8-flash-next.eval": {
-    "eval_id": "oFSrbtDqMkSrh3J5d9wMsA",
+    "eval_id": "k35nkGK2B5BhPLYHupFSeG",
     "run_id": "goodfire-rh-replay",
     "task": "swebench-verified-replay",
     "task_id": "swebench-verified-replay",
@@ -486,7 +468,7 @@
     }
   },
   "replay/swebench-verified/gpt-oss-120b.eval": {
-    "eval_id": "J8hTJ9G5n6D6piGyk9vfEi",
+    "eval_id": "gn5cCLvnVjPkXvTbsn6vp7",
     "run_id": "goodfire-rh-replay",
     "task": "swebench-verified-replay",
     "task_id": "swebench-verified-replay",
@@ -503,8 +485,26 @@
       "params": {}
     }
   },
+  "replay/shoppingbench/gpt-oss-120b.eval": {
+    "eval_id": "AawkECHkmJnGwM8X5PQVmw",
+    "run_id": "goodfire-rh-replay",
+    "task": "shoppingbench-replay",
+    "task_id": "shoppingbench-replay",
+    "task_version": 1,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openrouter/openai/gpt-oss-120b",
+    "started_at": "2026-10-29T15:52:49.997810+00:00",
+    "completed_at": "2026-10-29T16:55:26.161609+00:00",
+    "primary_metric": {
+      "name": "hack_rate",
+      "value": 0.059,
+      "params": {}
+    }
+  },
   "replay/shoppingbench/qwen3.8-flash-next.eval": {
-    "eval_id": "nrzsYdKEfKv5Ejuq9KbN6H",
+    "eval_id": "KzjBjQ22MHyFSABFPDfMhZ",
     "run_id": "goodfire-rh-replay",
     "task": "shoppingbench-replay",
     "task_id": "shoppingbench-replay",
@@ -522,7 +522,7 @@
     }
   },
   "replay/impossiblebench/qwen3.8-flash-next.eval": {
-    "eval_id": "6Y7aiVMYUHN686Srms3ooM",
+    "eval_id": "jHeBtT67e8pPQjLwTPdhhF",
     "run_id": "goodfire-rh-replay",
     "task": "impossiblebench-replay",
     "task_id": "impossiblebench-replay",
@@ -540,7 +540,7 @@
     }
   },
   "replay/impossiblebench/gpt-oss-120b.eval": {
-    "eval_id": "fHomEZEcic7KV3JejqNUYa",
+    "eval_id": "gFmvUXSGZCbbttq3dUJkvK",
     "run_id": "goodfire-rh-replay",
     "task": "impossiblebench-replay",
     "task_id": "impossiblebench-replay",
@@ -558,7 +558,7 @@
     }
   },
   "replay/deepswe/qwen3.8-flash-next.eval": {
-    "eval_id": "nXDceC9KpiGcapbx2TU6oi",
+    "eval_id": "GRrxHJY9P9fG5p7QqJRT9k",
     "run_id": "goodfire-rh-replay",
     "task": "deepswe-replay",
     "task_id": "deepswe-replay",
@@ -576,7 +576,7 @@
     }
   },
   "replay/deepswe/gpt-oss-120b.eval": {
-    "eval_id": "TX3ye2iBsnWK4S7Ne45WPs",
+    "eval_id": "ZYGDdVry3Z9ukPPvpi4yYo",
     "run_id": "goodfire-rh-replay",
     "task": "deepswe-replay",
     "task_id": "deepswe-replay",
